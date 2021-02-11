@@ -37,7 +37,6 @@ modules/intelligence-gathering/scancannon
 modules/intelligence-gathering/smbmap
 modules/intelligence-gathering/smtp-user-enum
 modules/intelligence-gathering/sniper
-modules/intelligence-gathering/soapui
 modules/intelligence-gathering/theHarvester
 modules/intelligence-gathering/unicornscan
 modules/intelligence-gathering/windows-exploit-suggester
